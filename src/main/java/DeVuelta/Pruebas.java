@@ -8,6 +8,7 @@ int b;
         int a = 10;
         System.out.println("El resultado de la suma es:" + (a + 10));
         System.out.println(a);
+        System.out.println(a+10);
     }
     
 }
