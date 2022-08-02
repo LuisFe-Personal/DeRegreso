@@ -2,11 +2,11 @@
 package DeVuelta;
 
 public class Pruebas {
-int a;
 int b;
     public static void main(String[] args) {
-        System.out.println("Hola Mundo");
-        int a;
+        System.out.println("Pruebas");
+        int a = 10;
+        System.out.println("El resultado de la suma es:" + (a + 10));
     }
     
 }
